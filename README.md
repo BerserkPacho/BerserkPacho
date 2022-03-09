@@ -1,4 +1,4 @@
- **From the moment I picked your book up until I laid it down, I was convulsed with laughter. Someday I intend reading it.**
-
+# I like maths and programming, everything about it.
+## From pentesting to computer graphics, `everything is alright`!
  
  
